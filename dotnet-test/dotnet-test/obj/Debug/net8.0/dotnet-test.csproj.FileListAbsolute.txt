@@ -1,0 +1,14 @@
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/bin/Debug/net8.0/dotnet-test
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/bin/Debug/net8.0/dotnet-test.deps.json
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/bin/Debug/net8.0/dotnet-test.runtimeconfig.json
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/bin/Debug/net8.0/dotnet-test.dll
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/bin/Debug/net8.0/dotnet-test.pdb
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/obj/Debug/net8.0/dotnet-test.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/obj/Debug/net8.0/dotnet-test.AssemblyInfoInputs.cache
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/obj/Debug/net8.0/dotnet-test.AssemblyInfo.cs
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/obj/Debug/net8.0/dotnet-test.csproj.CoreCompileInputs.cache
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/obj/Debug/net8.0/dotnet-test.dll
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/obj/Debug/net8.0/refint/dotnet-test.dll
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/obj/Debug/net8.0/dotnet-test.pdb
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/obj/Debug/net8.0/dotnet-test.genruntimeconfig.cache
+/home/user/Documentos/Workspace/coding-contest-nov-2024/dotnet-test/dotnet-test/obj/Debug/net8.0/ref/dotnet-test.dll
